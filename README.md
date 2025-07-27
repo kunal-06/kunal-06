@@ -3,7 +3,8 @@
 ![](https://github.com/user-attachments/assets/6b85e0a1-af74-4eca-8844-a44ff7e2f6b5)
 
 
-Krunal Patil<br><br>"I code, I learn, I innovate — currently exploring the exciting intersection of AI, Cloud, and full-stack development."<br><br>"Fuelled by curiosity, building the future one line of code at a time."<br><br>"A tech enthusiast crafting smarter apps and sharper solutions — powered by coffee and curiosity."
+# Hay, ! aɱ Krunal
+<br><br>"I code, I learn, I innovate — currently exploring the exciting intersection of AI, Cloud, and full-stack development."<br><br>"Fuelled by curiosity, building the future one line of code at a time."<br><br>"A tech enthusiast crafting smarter apps and sharper solutions — powered by coffee and curiosity."
 
 
 ## 🌐 Socials:
